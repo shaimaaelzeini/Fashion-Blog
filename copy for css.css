@@ -1,0 +1,357 @@
+*{
+	
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+
+html,body{
+	
+			width:100%;
+			height:100%;
+			
+	
+	
+} /* start nav style */
+
+nav{
+	
+			height:7%;
+			background-color:black;
+			color:white;
+}
+
+nav i{
+			display:inline-block;
+			width:60px;
+			height:40px;
+			color:white;
+			margin:10px;
+		    padding: 8px 16px;
+			margin-bottom:30px;
+		
+			
+	
+}
+nav a:hover{background-color:rgba(232,224,224,0.6);}
+
+     /* start header style */
+
+
+#headertext{
+	
+	
+	
+			height:auto;
+			text-align:center;
+			padding:50px 0px;
+			
+			
+}
+#headertext h1{
+	font-weight:bold;
+		
+	
+}
+
+#headertext span{
+	background-color:black;
+	color:white;
+	padding:0px 5px;
+}
+header{
+			height:auto;
+			background-color:black;
+			position:relative;
+	
+	
+	
+}
+header img{
+	
+	width:100%;
+}
+
+.headerdiv{
+	position:absolute;
+	top:40%;
+	left:7%;
+	color:white;
+	font-weight:bold;
+	font-size:22px;
+	
+	
+}
+.headerdiv button{
+	
+	
+	border:none;
+	padding:10px 20px;
+	background-color:rgba(232,224,224,0.5);
+	color:black;
+}
+
+    /* start main style */
+main{
+		height:auto;
+		background-color:#f1f1f1;
+		width:100%;
+		
+}
+section{
+	
+		height:100%;
+		width:70%;
+		float:left;
+		
+  
+}
+
+	   
+	   
+	   
+ 
+ 
+  
+ #divtitle{text-align:center;
+                  padding-top:30px;}
+
+section img{ 
+
+	width:100%;
+	padding:20px;
+	
+	
+}	
+section p{
+	     padding:20px;
+}			  
+	
+.sectionbuttonl{
+	 font-size:20px;
+	 margin-left:30px;
+	 padding:10px; 
+	background-color:white;
+	float:left;
+	
+	
+	
+}	
+
+.sectionbuttonl:hover{
+	
+	 background-color:#f1f1f1;
+	 
+	
+	
+}
+
+.sectionbutton2	{
+	 font-size:17px;
+	 margin-left:30px;
+	 padding:10px; 
+	background-color:black;
+	float:right;
+	color:white;
+	margin-right:30px;
+	
+	
+	
+	
+}
+.sectionbutton2:hover{
+	
+	background-color:#f1f1f1;
+	color:black}
+
+#span2{background-color:white;
+       color:black;
+	   font-size:20px;
+	  margin-right:10px;
+	  margin-top:15px ;
+	  margin-bottom:15px ;
+	    padding:10px;
+	   }
+	   
+.bigdiv{background-color:white;
+             padding:10px;
+			 margin:20px;
+			 position:relative;
+            
+	
+	
+}
+.sectionbutton{
+	margin-bottom:50px;
+}
+
+
+.smallimages{
+   width:110px;}
+	
+.lastfirstbigdiv{
+				display:inline-block;
+				margin-left:50px;
+				margin-bottom:20px;
+				
+	
+}	
+aside{
+	
+		height:420%;
+		width:30%;
+		float:right;
+		background-color:#f1f1f1;
+		margin-top:23px;;
+		
+	
+}
+aside img{
+	   width:100%
+	
+	
+}
+.firstasidediv{background-color:black;
+               color:white;
+			   padding:20px;
+	
+		
+	
+}
+
+.black{
+	
+		background-color:black;
+		width:100%;
+		height:auto;
+		padding-bottom:5px;
+		color:white;
+		font-size:25px;
+		font-weight:bold;
+		margin-top:30px;
+		padding:20px;
+	
+}
+
+.white{
+	
+		width:100%;
+		height:auto;
+		background-color:white;
+		color:black;
+		display:inline-block;
+		padding:20px;
+	
+		
+		
+		
+	
+}
+
+.smallimages2{
+	  width:70px;
+	  height:70px;
+	
+	
+}
+.white ul li span{
+	           display:inline-block;
+             
+			  }
+			  
+.white p{
+	   text-align:center;
+	   padding-top:20%
+	
+	
+}
+#fashion{
+		background-color:black;
+		color:white;
+		margin:1px;
+		padding:1px;
+	
+	
+}
+#tags{
+	
+	background-color:#f1f1f1;
+		color:black;
+		margin-bottom:10px;
+		padding:1px;
+		padding-top:2px;
+		 display: inline-block;
+		padding-left: 8px;
+		
+		text-align: center;
+			
+		
+}
+.lastimages{
+	
+	width:49%;
+	height:49%;
+	
+	
+	
+}
+.white a{
+	
+	font-size:20px;
+	color:black;
+	margin:3px;
+	
+	
+}
+#lasttext{
+	
+	    width:100%;
+		height:40px;
+	
+	
+	
+}
+#lastbutton{display:block;
+            width:100%;
+			height:40px;
+			color: #fff;
+            background-color: #f44336;}
+			
+#lastbutton:hover{
+	
+	background-color:#f1f1f1;
+	color:black;
+	
+	
+} 
+
+	/* start footer style */
+	
+footer{
+		
+		height:20%;
+		background-color:#616161;
+		text-align:center-left;
+		width:100%;
+		position:relative;
+		float:bottom;
+			
+}
+ footer a{
+	
+		text-decoration:none;
+		left:40%;
+		background-color:black;
+		color:white;
+		position:absolute;
+		text-align:center;
+		width:100px;
+		height:40px;
+		padding-top:10px;
+		padding-bottom:10px;
+		margin-top:20px;
+	
+}
+footer p{   left:40%;
+           color:black;
+            margin-left:47%;}
